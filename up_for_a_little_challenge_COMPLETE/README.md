@@ -9,7 +9,7 @@ Challenge ini tidak memberikan clue apapun dan beranggapan bahwa kita tahu apa y
 eog Begin\ Hack.jpg
 ```
 
-![](./Begin Hack.jpg)
+![Begin Hack](https://raw.githubusercontent.com/cerc-undip/CTF-Learn-Writeup/update/up_for_a_little_challenge_COMPLETE/Begin%20Hack.jpg)
 
 Setelah dibuka dengan _image viewer_ tidak ada keterangan yang berarti dan hanya gambar biasa.
 
