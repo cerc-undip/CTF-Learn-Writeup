@@ -38,7 +38,7 @@ Nah, dari sini kita tahu bahwa algoritma yang dipakai untuk _decoding_ adalah de
 > decode(kar) = desimal(kar) - 100
 
 Kita bisa mencoba satu-satu seperti pada contoh sebelumnya. Tetapi agar efisien kita gunakan perulangan pada Python.
-```php
+```python
 >>> soal = "¥¦§¸ªßØÌÉÃÊÐÅËá"
 >>> hasil = ""
 >>> for karakter in soal:
