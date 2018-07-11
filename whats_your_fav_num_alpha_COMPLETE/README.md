@@ -35,11 +35,10 @@ Ternyata didapat bahwa karakter `¥` memiliki angka desimal 165. Kemudian kita c
 ```
 
 Nah, dari sini kita tahu bahwa algoritma yang dipakai untuk _decoding_ adalah dengan mengurangi 100 dari angka desimal dari ASCII. Atau bisa kita modelkan seperti ini:
-| decode(kar) = desimal(kar) - 100 |
-|----------------------------------|
+> decode(kar) = desimal(kar) - 100
 
 Kita bisa mencoba satu-satu seperti pada contoh sebelumnya. Tetapi agar efisien kita gunakan perulangan pada Python.
-```
+```php
 >>> soal = "¥¦§¸ªßØÌÉÃÊÐÅËá"
 >>> hasil = ""
 >>> for karakter in soal:

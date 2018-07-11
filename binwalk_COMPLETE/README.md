@@ -12,7 +12,7 @@ Kita buka file gambar yang baru saja didownload
 eog PurpleThing.jpeg
 ```
 
-Ketika membuka file, kita mendapatkan error. Hal ini terjadi kemungkinan karena gambar sudah disisipi file yang lain (atau:_Steganografi).
+Ketika membuka file, kita mendapatkan error. Hal ini terjadi kemungkinan karena gambar sudah disisipi file yang lain (atau:_Steganografi_).
 
 Kita akan lihat string yang ada di dalam file ini dan jenisnya.
 ```
