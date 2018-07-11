@@ -15,7 +15,7 @@ atau
 $input = 'SELECT * FROM user WHERE name = "'. $_POST['input'] .'"';
 ```
 
-Perhatikan bahwa input dari user (`$_POST['uname']` dan `$_POST['pass']`) tidak dilakukan filtering maupun validasi. Dalam kasus seperti ini form sangat mudah untuk di-inject menggunakan syntax SQL biasa.
+Perhatikan bahwa input dari user (`$_POST['input']) tidak dilakukan filtering maupun validasi. Dalam kasus seperti ini form sangat mudah untuk di-inject menggunakan syntax SQL biasa.
 
 Kita coba inject input dengan syntax berikut
 ```
