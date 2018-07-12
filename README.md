@@ -19,6 +19,7 @@
 * Forensic
   * `file`
   * `strings`
+  * `exiftool`
   * `binwalk`
   * `foremost`
 * Cryptography
