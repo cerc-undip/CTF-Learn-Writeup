@@ -9,6 +9,9 @@ quest*
 *.png
 *.gif
 
+# executable
+*.exe
+
 # outputs after extracting
 */output/*
 */__MACOSX/*
