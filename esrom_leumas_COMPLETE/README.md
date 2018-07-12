@@ -70,6 +70,8 @@ print("".join(decode))
 
 Program diatas akan otomatis mengakses setiap kode di variabel `hasil` dan mencocokkan dengan _dictionary_ di variabel `sandi`. Hasil dari pencocokkan tersebut dimasukkan kedalam list/array decoded. Terakhir kita tampilkan hasil penggabungan kata di dalam variabel `decoded`.
 
+Kalian bisa kontribusi perbaiki kode **Morse Decoder** diatas di [repository ini](https://github.com/fannyhasbi/morse-decoder).
+
 Perhatikan bahwa format flag-nya adalah **flag{FourWordsInCamelCase}**.
 
 flag : `flag{SamuelMorseIsCool}`
