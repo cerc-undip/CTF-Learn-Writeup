@@ -1,0 +1,18 @@
+# ignore pure files and flags
+# cz it's explained in each README.md
+flag*
+quest*
+Flag*
+
+# files
+*.zip
+*.jpeg
+*.png
+*.gif
+
+# executable
+*.exe
+
+# outputs after extracting
+*/output/*
+*/__MACOSX/*
